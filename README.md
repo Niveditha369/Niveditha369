@@ -15,9 +15,10 @@
 
 I'm a **Network Engineer** and **MCA Postgraduate** based in Bengaluru, Karnataka, with a strong foundation in networking, information technology, and network automation. Currently pursuing **AI Full Stack Network Engineering** at Networkers Home, Bengaluru.
 
-- 🔒 **Network Security** — Firewall Administration, Network Access Control, Security Policies, monitoring & troubleshooting
+
 - 🌐 **Networking** — Routing, Switching, VLANs, OSPF, STP, EtherChannel, ACLs, NAT/PAT, SSH
 - 🛡️ **Firewall Technologies** — Fortinet FortiGate, Cisco ASA, Firewall Configuration & Monitoring
+- 🔒 **Network Security** — Firewall Administration, Network Access Control, Security Policies, monitoring & troubleshooting
 - 🔧 **Networking Tools** — Cisco Packet Tracer, EVE-NG, Wireshark
 - 🐍 **Programming & Automation** — Python, Network Automation Fundamentals
 - 🌍 **Networking Protocols** — TCP/IP, IPv4/IPv6, Routing Protocols
