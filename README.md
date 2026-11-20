@@ -71,7 +71,7 @@ I'm a **Network Engineer** and **MCA Postgraduate** based in Bengaluru, Karnatak
 |--------|-------------|------|------|
 | **MCA** (Master of Computer Applications) | Presidency College, Bengaluru | 8.31 | 2023–2025 |
 | **BVoc** (Bachelor of Vocational Course) | University College of Science, Tumkur | 9.10 | 2020–2023 |
-| **PCMB** | Siddaganga Women's PU College, Tumkur | — | 2018–2020 |
+
 
 ---
 
