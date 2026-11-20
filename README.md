@@ -1,4 +1,5 @@
 <div align="center">
+# Hi, I'm Niveditha P K 👋
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niveditha-p-k-367385316)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Niveditha369)
