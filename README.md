@@ -65,16 +65,6 @@ I'm a **Network Engineer** and **MCA Postgraduate** based in Bengaluru, Karnatak
 
 ---
 
-## 🚀 Projects
-
-| Project | Description |
-|---------|-------------|
-| **Multi-Branch Enterprise Network (OSPF)** | Designed a multi-branch WAN in Cisco Packet Tracer with OSPF, VLANs, 802.1Q trunking, inter-VLAN routing, SSH management & extended ACLs |
-| **Enterprise Network with Dynamic Routing & Security** | Developed a three-tier network with OSPF, IP addressing, standard/extended ACLs, and NAT/PAT — validated in Packet Tracer |
-| **Deep Learning for Underwater Image Classification** | Built a MobileNetV2-based image-classification pipeline achieving **92% accuracy** on low-light underwater images |
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | CGPA | Year |
